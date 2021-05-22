@@ -1,5 +1,10 @@
+# Leo Zuber Ponce
+# 05/21
 
-# Iterates through multi-fasta files, aligns them with MAFFT, creates hmm profiles and compares them to a genome
+#######################################################################################################
+
+# Iterates through multi-fasta files, aligns them with MAFFT, creates hmm profiles and compares them to 
+# a genome or transcriptome database.
 
 import subprocess as sp
 from optparse import OptionParser
